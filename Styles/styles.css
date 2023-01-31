@@ -2,7 +2,7 @@
 body {
     font-family: 'Montserrat',
     sans-serif;
-     background-color: #F5F7FA; 
+      background-color: #F5F7FA;  
     /* margin: 20px 40px; */
 }
 
@@ -18,7 +18,7 @@ body {
 
 .main-content {
     background-color: #FFFFFF;
-    box-shadow:  rgba(255, 255, 255, 0.8) -6px -2px 16px 0px; 
+    box-shadow:  rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;  
     padding: 66px 90px;
 }
 
@@ -192,7 +192,7 @@ margin-bottom: 10px;
     background-color: #1E2939;
     padding-top: 40px;
     width: 370px;
-    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    /* box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px; */
 }
 
 .photo{
